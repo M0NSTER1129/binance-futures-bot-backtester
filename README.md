@@ -4,7 +4,7 @@ Python trading bot &amp; event-driven backtester for Binance Futures (USDT-M)
 
 Production-ready Python algorithmic trading framework and event-driven backtester for **Binance Futures (USDT-M)**. Covered by automated tests (`18/18 pytest passed`), Docker-ready, and delivered as a standalone ZIP source code archive.
 
-> **[Download Full Source Code (ZIP) on Boosty — 5 000 ₽](https://boosty.to/productioncrupto1/posts/c75a22ce-1e86-4578-9fbf-da7199939734?share=post_link)**  
+> **[Download Full Source Code (ZIP) on Boosty — 4990 ₽](https://boosty.to/productioncrupto1/posts/c75a22ce-1e86-4578-9fbf-da7199939734?share=post_link)**  
 > *(Instant file access after payment • Russian & international cards accepted)*
 
 ---
@@ -38,7 +38,7 @@ Production-ready Python algorithmic trading framework and event-driven backteste
 - Готовые YAML-конфиги (`BTCUSDT 15m`, `ETHUSDT 15m`) и шаблон `.env.example`
 - `docker-compose.yml` и подробная инструкция по запуску `README.md`
 
-👉 **[Получить полный ZIP-архив на Boosty (5 000 ₽)](https://boosty.to/productioncrupto1/posts/c75a22ce-1e86-4578-9fbf-da7199939734?share=post_link)** — доступ к скачиванию открывается сразу после оплаты.
+👉 **[Получить полный ZIP-архив на Boosty (4990 ₽)](https://boosty.to/productioncrupto1/posts/c75a22ce-1e86-4578-9fbf-da7199939734?share=post_link)** — доступ к скачиванию открывается сразу после оплаты.
 
 ---
 
